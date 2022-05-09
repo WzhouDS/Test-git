@@ -8,5 +8,7 @@ public class FitrstTest {
         System.out.println("test five");
         System.out.println("test six");
         System.out.println("测试PUSH");
+        System.out.println("测试Pull");
+        
     }
 }
